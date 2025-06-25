@@ -461,7 +461,7 @@ const projectsData: { [key: string]: ProjectData } = {
     "contract-management": {
     title: "Contract Management System",
     writtenBy: "BITZ-itc Team",
-    publishedOn: "", 
+    publishedOn: "", // Date can be added here
      sections: [
       {
         title: "Contract Lifecycle Stages",
