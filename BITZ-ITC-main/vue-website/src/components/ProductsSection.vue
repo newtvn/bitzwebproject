@@ -20,7 +20,7 @@
             </div>
             <h3 class="text-2xl font-bold">Product Name 1</h3>
             <p class="text-lg text-gray-500 dark:text-gray-400">
-              Brief description of the product and its benefits.
+              Brief open description of the product and its benefits.
             </p>
             <a href="#" class="text-navy dark:text-white flex items-center font-semibold text-lg">
               Learn more <span class="material-icons ml-1 text-base">chevron_right</span>
